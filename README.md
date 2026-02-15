@@ -1,9 +1,5 @@
 # Aram-Radif-AI-Search-Knowledge-Store
 
-Create a knowledge store with Azure AI Search
-
-Azure AI Search Knowledge Store Project
-
 Project Overview
 This project demonstrates how to design and implement a Knowledge Store using:
 •	Azure AI Search
